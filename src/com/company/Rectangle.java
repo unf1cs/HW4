@@ -1,7 +1,5 @@
 package com.company;
 
-import javax.swing.text.StyledEditorKit;
-
 public class Rectangle {
     public double x;
     public double y;
